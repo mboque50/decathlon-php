@@ -1,6 +1,5 @@
 # decathlon-php
 
-## How to run website
 **BEFORE INSTALLING:** Please make sure you have the following installed:
 - PHP >=5.6
 - Composer (https://getcomposer.org/download)
