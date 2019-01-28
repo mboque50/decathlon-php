@@ -4,6 +4,8 @@
 - PHP >=5.6
 - Composer (https://getcomposer.org/download)
 
+## Install and run
+
 1. Clone this repository.
 ```
 git clone https://github.com/mbuyco/decathlon-php.git
