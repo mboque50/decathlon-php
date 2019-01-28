@@ -1,0 +1,13 @@
+{
+    "name": "mikebuyco/decathlon-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mbuyco",
+            "email": "buyco.michael@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
