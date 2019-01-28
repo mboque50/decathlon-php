@@ -1,7 +1,9 @@
 # decathlon-php
 
 ## How to run website
-**BEFORE INSTALLING:** Please make sure you have at least PHP 5.6 (or higher) installed.
+**BEFORE INSTALLING:** Please make sure you have the following installed:
+- PHP >=5.6
+- Composer (https://getcomposer.org/download)
 
 1. Clone this repository.
 ```
@@ -13,9 +15,14 @@ git clone https://github.com/mbuyco/decathlon-php.git
 cd decathlon-php
 ```
 
-3. Run this:
+3. Install dependencies
+```
+composer install
+```
+
+4. Run this:
 ```
 php -S localhost:80
 ```
 
-4. Navigate to http://localhost and upload a PDF file to website.
+5. Navigate to http://localhost and upload a PDF file to website.
