@@ -23,7 +23,7 @@ composer install
 
 4. Run this:
 ```
-php -S localhost:80
+php -S localhost:8080
 ```
 
 5. Navigate to http://localhost and upload a PDF file to website.
